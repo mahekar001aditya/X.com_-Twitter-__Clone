@@ -34,22 +34,6 @@ This project focuses on UI/UX design and layout inspired by the real X platform.
 
 ---
 
-## 📁 Project Structure
-
-Twiiter/
-│
-├── css/
-│ ├── input.css
-│ └── output.css
-│
-├── imgg/
-│ └── xc.png
-│
-├── index.html
-├── package.json
-├── tailwind.config.js
-└── postcss.config.js
-
 ## ""TALWIND CSS + NPM INSTALLATION AND RUN GUIDE
 
 1) CHECK NODE AND NPM
