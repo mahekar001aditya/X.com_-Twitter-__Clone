@@ -35,7 +35,7 @@ This project focuses on UI/UX design and layout inspired by the real X platform.
 
 ---
 
-## ""TALWIND CSS + NPM INSTALLATION AND RUN GUIDE
+## TALWIND CSS + NPM INSTALLATION AND RUN GUIDE
 
 1) CHECK NODE AND NPM
 
