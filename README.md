@@ -112,4 +112,4 @@ Option 2 (VS Code):
 code .
 ```
 Right click index.html and open with Live Server
-"""
+
